@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-key */
 import { BigNumber, providers, utils } from "ethers";
 import Head from "next/head";
 import React, { useEffect, useRef, useState } from "react";
